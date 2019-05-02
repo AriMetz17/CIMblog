@@ -1,0 +1,78 @@
+		h1{
+			font-family: 'Over the Rainbow';
+			margin-left:5em;
+			margin-right:5em;
+			text-align: center;
+			margin-top: 5%; 
+			color: #4da4a4;
+		}
+		
+		li{
+			margin-bottom: 0.7em;
+			list-style-type: none;
+			margin-left:5em;
+			margin-right:15em;
+			border:solid;
+			border-style:inset;
+			border-color: grey;
+			border-width: 0.5em;
+			background-color: pink;
+			font-family: 'Norican';
+			text-align: center; 
+			font-size:1.5em;
+		}
+		
+		a:link{
+			color: chocolate;	
+			text-decoration: none;	
+		}	
+		
+		a:visited{
+			color: chocolate;
+			text-decoration: none;	
+		}	
+		
+		a:hover{
+			color:red;
+		}
+		
+		a:active{
+			color:green;
+		}
+
+		b{
+			font-size: 5em;
+			color: IndianRed;
+			font-family: 'Over the Rainbow';
+		}
+		
+		img{
+			margin-left:45em;
+			float:left;
+			margin-bottom:5em;
+		}	
+		
+		#right{
+			margin-right:5em;
+			float:right;
+		}
+		body{
+			margin-left:5em;
+			margin-right:5em;
+			text-align: center;
+			background-color: #c4eee7;
+			}
+		p{	
+			margin-left:5em;
+			margin-right:5em;
+			padding:0.5em;
+			border-style: inset;
+			text-align: center;
+			font-size: 1.5em;
+			color: SaddleBrown;
+		}
+		img{
+			width:500px;
+			height:500px;
+		}
+	
