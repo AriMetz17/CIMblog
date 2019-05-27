@@ -53,8 +53,9 @@
 			margin-left:5em;
 			margin-right:5em;
 			text-align: center;
-			background-image: url("123.gif",200%);
+			background-image: url("123.gif");
 			background-repeat: no-repeat;
+ 			background-size: auto;
   			background-color: white;
 			}
 		p{	
