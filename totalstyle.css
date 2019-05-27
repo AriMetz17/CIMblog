@@ -13,22 +13,22 @@
 			margin-left:15em;
 			margin-right:15em;
 			border:solid;
-			border-style:inset;
+			border-style:groove;
 			border-color: grey;
 			border-width: 0.5em;
-			background-color: #f7f7ff;
+			background-color: #666699;
 			font-family: 'Pacifico', cursive;
 			text-align: center; 
 			font-size:1.5em;
 		}
 		
 		a:link{
-			color: purple;	
+			color: #d13873;	
 			text-decoration: none;	
 		}	
 		
 		a:visited{
-			color: chocolate;
+			color: #d13873;
 			text-decoration: none;	
 		}	
 		
@@ -42,16 +42,9 @@
 
 		b{
 			font-size: 5em;
-			color: IndianRed;
+			color: #f29c08;
 			font-family: 'Gloria Hallelujah';
 		}
-		
-		img{
-			margin-left:45em;
-			float:left;
-			margin-bottom:5em;
-		}	
-		
 		#right{
 			margin-right:5em;
 			float:right;
@@ -71,8 +64,4 @@
 			font-size: 1.5em;
 			color: SaddleBrown;
 		}
-		img{
-			width:500px;
-			height:500px;
-		}
-	
+
