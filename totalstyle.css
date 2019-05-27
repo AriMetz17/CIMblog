@@ -53,7 +53,7 @@
 			margin-left:5em;
 			margin-right:5em;
 			text-align: center;
-			background-image: url("123.gif");
+			background-image: url("123.gif",200%);
 			background-repeat: no-repeat;
   			background-color: white;
 			}
