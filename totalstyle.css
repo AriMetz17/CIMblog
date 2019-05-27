@@ -10,14 +10,14 @@
 		li{
 			margin-bottom: 0.7em;
 			list-style-type: none;
-			margin-left:5em;
+			margin-left:15em;
 			margin-right:15em;
 			border:solid;
 			border-style:inset;
 			border-color: grey;
 			border-width: 0.5em;
-			background-color: pink;
-			font-family: 'Norican';
+			background-color: purple;
+			font-family: 'Ubuntu', sans-serif;
 			text-align: center; 
 			font-size:1.5em;
 		}
