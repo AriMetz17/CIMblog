@@ -24,7 +24,8 @@
 		
 		a:link{
 			color: white;	
-			text-decoration: none;	
+			text-decoration: none;
+			text-shadow: -2px 2px #000000;
 		}	
 		
 		a:visited{
