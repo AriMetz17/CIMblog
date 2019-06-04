@@ -1,13 +1,13 @@
 	   	h1{
 			text-align: middle; 
 			font-family: Luminari;
-			color: purple;
+			color: white;
 			font-size:1.5em;
 		}
 		h2{
 			font-family: Luminari;
 			font-size:1.5em;
-			color: Chocolate;s
+			color: pink;
 		}
 		body{
 			margin:3em;
@@ -19,7 +19,7 @@
 		p{
 			margin-left:5em;
 			margin-right:5em;
-			color: #1a6c80;
+			color: white;
 			font-size:1.5em;
 			font-family: Cursive;
 		}
@@ -29,7 +29,7 @@
 			text-align: left;
 			font-family: Arial;
 			font-size:1em;
-			color:#ffffff;
+			color:white;
 			border: solid;
 			border-color: brown;
 			border-style: inset;
