@@ -1,69 +1,44 @@
 h1{
-			font-family: 'Over the Rainbow';
-			margin-left:5em;
-			margin-right:5em;
-			text-align: center;
-			margin-top: 5%; 
-			color: #ade0c4;
-		}
-		
-		li{
-			margin-bottom: 0.7em;
-			list-style-type: none;
-			margin-left:15em;
-			margin-right:15em;
-			border:solid;
-			border-style:groove;
-			border-color: grey;
-			border-width: 0.5em;
-			background-color: rosepink;
-			font-family: 'Pacifico', cursive;
-			text-align: center; 
+			text-align: middle; 
+			font-family: Luminari;
+			color: purple;
 			font-size:1.5em;
 		}
-		
-		a:link{
-			color: white;	
-			text-decoration: none;
-			text-shadow: -2px 2px #000000;
-		}	
-		
-		a:visited{
-			color: white;
-			text-decoration: none;	
-		}	
-		
-		a:hover{
-			color:red;
-		}
-		
-		a:active{
-			color:green;
+
+h2{
+			font-family: Luminari;
+			font-size:1.5em;
+			color: Chocolate;s
 		}
 
-		b{
-			font-size: 5em;
-			color: #f29c08;
-			font-family: 'Gloria Hallelujah';
-		}
-		#right{
-			margin-right:5em;
-			float:right;
-		}
-		body{
-			margin-left:5em;
-			margin-right:5em;
+body{
+			margin:3em;
 			text-align: center;
-			background-image: url("skating.png");
+			background-image: url("skating.jpg");
 			background-repeat: no-repeat;
  			background-size: 100%;
 			}
-		p{	
+
+p{
 			margin-left:5em;
 			margin-right:5em;
-			padding:0.5em;
+			color: #1a6c80;
+			font-size:1.5em;
+			font-family: Cursive;
+		}
+
+ul{
+			list-style-type: square;
+			padding: 1.5em;
+			text-align: left;
+			font-family: Arial;
+			font-size:1em;
+			color:#1a6c80;
+			border: solid;
+			border-color: brown;
 			border-style: inset;
-			text-align: center;
-			font-size: 1.5em;
-			color: SaddleBrown;
+			border-width: 1em;
+			margin:4em;
+			margin-left:30%;
+			margin-right:30%;
 		}
