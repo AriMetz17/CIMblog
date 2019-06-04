@@ -21,7 +21,7 @@
 			margin-right:5em;
 			color: white;
 			font-size:1.5em;
-			font-family: Cursive;
+			font-family: Bold;
 		}
 		ul{
 			list-style-type: square;
@@ -29,7 +29,7 @@
 			text-align: left;
 			font-family: Arial;
 			font-size:1em;
-			color:purple;
+			color:#4E25CC;
 			border: solid;
 			border-color: brown;
 			border-style: inset;
@@ -37,6 +37,6 @@
 			margin:4em;
 			margin-left:30%;
 			margin-right:30%;
-			background-color:white
+			background-color:#a3ccff;
 		}
 	
