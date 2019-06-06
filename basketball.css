@@ -8,7 +8,7 @@ h1{
 h2{
 			font-family: Luminari;
 			font-size:1.5em;
-			color: Chocolate;s
+			color: Chocolate;
 		}
 h3{
 			font-size:1.5em;
@@ -20,7 +20,10 @@ h4{
 h5{
 			font-size:2.5em;
 		}		
-	
+h7{
+			font-size:4.5em;
+			color: ffffff;
+		}
 
 body{
 			margin:3em;
